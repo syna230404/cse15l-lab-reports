@@ -21,7 +21,7 @@ This is page 1
 --- 
 
 ```
-//time for C
+//time for C. I'm rusty though
 #include <stdio.h>
 
 int main (){
